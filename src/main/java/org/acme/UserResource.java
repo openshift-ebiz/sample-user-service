@@ -22,7 +22,7 @@ public class UserResource {
 
     static{
         User user = new User() ;
-        user.setFirstName("Johnathan");
+        user.setFirstName("Jeremy");
         user.setLastName("Doe");
         user.setEmail("john.doe@hotmail.com");
         user.setPassword("password1");
